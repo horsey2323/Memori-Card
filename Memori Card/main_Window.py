@@ -27,7 +27,7 @@ result_lbl = QLabel("Правильна відповідь")
 answers_gbox = QGroupBox()
 result_gbox = QGroupBox()
 
-# ЛЕЙФУТИ ВІКНА #
+# ЛЕЙАУТИ ВІКНА #
 
 header_layout = QHBoxLayout()
 
@@ -36,7 +36,7 @@ result_gbox_layout = QVBoxLayout()
 
 answer_buttons_row1_layout = QHBoxLayout()
 answer_buttons_row2_layout = QHBoxLayout()
-# РОЗТАШЩВУЄМО ВІДЖЕТИ У ЛЕЙАУТАХ #
+# РОЗТАШOВУЄМО ВІДЖЕТИ У ЛЕЙАУТАХ #
 
 header_layout.addWidget(menu_pbtn)
 header_layout.addWidget(rest_pbtn)
